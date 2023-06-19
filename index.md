@@ -1,7 +1,7 @@
----
+<!-- ---
 layout: page
 title: my index
----
+--- -->
 
 ## subtitle 1
 
