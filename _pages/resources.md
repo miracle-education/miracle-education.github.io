@@ -1,6 +1,7 @@
 ---
 permalink: /resources/
 title: "Academic Resources"
+layout: default
 excerpt: "Miracle Education helps students success in their own ways."
 toc: true
 ---
