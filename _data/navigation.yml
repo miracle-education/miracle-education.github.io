@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Home"
+  - title: "主页"
     url: /
-  - title: "About Us"
-    url: /about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "课程介绍"
+    url: /courses/
+  - title: "学业服务"
+    url: /services/
+  - title: "学习资源"
+    url: /resources/
   # - title: "Sitemap"
   #   url: /sitemap/
