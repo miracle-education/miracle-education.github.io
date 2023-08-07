@@ -4,10 +4,10 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/logo_h.jpg
+  overlay_image: /assets/images/‎logo_1028x144.png
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/"
+    - label: "<i class='btn-contact'></i> Contact us"
+      url: "/contact/"
 excerpt: >
   A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
