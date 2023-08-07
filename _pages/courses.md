@@ -1,7 +1,7 @@
 ---
 permalink: /courses/
 title: "Current Courses"
-layout: default
+layout: single
 excerpt: "---"
 toc: true
 ---
