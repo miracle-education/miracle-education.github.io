@@ -1,7 +1,7 @@
 ---
 permalink: /services/
-title: "大学申请及课程规划"
-layout: archive
+title: "学业服务 / Academic Services"
+layout: single
 excerpt: "---"
 toc: true
 ---
@@ -9,3 +9,7 @@ toc: true
 ## 大学申请
 这样这样
 ...
+
+## 规划督导
+那样那样
+。。。

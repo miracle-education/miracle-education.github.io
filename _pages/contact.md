@@ -1,6 +1,6 @@
 ---
 permalink: /contact/
-title: "Contact us"
+title: "联系我们 / Contact us"
 layout: single
 excerpt: "---"
 two_column:
