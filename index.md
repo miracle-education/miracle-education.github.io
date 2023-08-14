@@ -6,33 +6,33 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/logo_1028x144.png
   actions:
-    - label: "<i class='btn-contact'></i> Contact us"
+    - label: "<i class='btn-contact'></i>联系我们"
       url: "/contact/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
+  帮助每个学生创造属于自己的奇妙未来！<br />
+  <small>教育，创造奇迹。</small>
 feature_row:
   - image_path: /assets/images/logo_h.png
-    alt: "1st picture fail"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    alt: "一张富有学习氛围的老师讲课照片"
+    title: "课程介绍"
+    excerpt: "我们的课程涵盖从中学的数学、科学、英语，到课外竞赛、大学课程的补习；为每个学生单独设计课程方案和授课模式。"
     url: "/courses/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "了解详情"
   - image_path: /assets/images/logo_h.png
-    alt: "2nd picture fail"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    alt: "有关大学入学、大学申请或课外志愿者活动的照片"
+    title: "学业服务"
+    excerpt: "我们的专业团队帮助学生安排校内的课程和校外的活动，以契合大学的招生期望；同时，我们指导学生完善个人简历、申请陈述等。"
     url: "/services/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "了解详情"
   - image_path: /assets/images/logo_h.png
     alt: "3rd picture fail"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    title: "学习资源"
+    excerpt: "我们整理了一些热门课程的知识点，帮助学生复习、预习，更轻松地学到知识！"
     url: "/resources/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "点击前往"
 ---
 
 {% include feature_row %}
