@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/‎logo_1028x144.png
+  overlay_image: /assets/images/logo_1028x144.png
   actions:
     - label: "<i class='btn-contact'></i> Contact us"
       url: "/contact/"

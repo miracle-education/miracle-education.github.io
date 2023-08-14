@@ -37,3 +37,14 @@ td,
 th {
   vertical-align: middle;
 }
+
+/* 
+   Two Column, no boarder format
+   ========================================================================== */
+table.no_border {
+  border: none;
+  text-align: left;
+  .td {
+    border-bottom: none;
+  }
+}
