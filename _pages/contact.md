@@ -11,9 +11,9 @@ two_column:
     - left: "电话 / Phone:"
       right: "778-952-9624"
     - left: "邮箱 / Email:"
-      right: "[miracleeducationinc@gmail.com](miracleeducationinc@gmail.com)"
+      right: "<a href='miracleeducationinc@gmail.com'>miracleeducationinc@gmail.com</a>"
     - left: "微信 / wechat:"
-      right: "[![我们的微信二维码](/assets/images/wechat_barcode.jpeg)](/)"
+      right: "<img src='/assets/images/wechat_barcode.jpeg' alt='我们的微信二维码' width='200' height='200'>"
 ---
 
 {% include two_column %}
