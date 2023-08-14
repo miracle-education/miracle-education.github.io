@@ -6,8 +6,8 @@ excerpt: "---"
 two_column:
   title_col: false
   header:
-    - title: "线下课程"
-    - title: "线上课程"
+    title_left: "线下课程"
+    title_right: "线上课程"
   contents:
     - left: "<ul style="list-style-type: '✘ ';"><li>老师写黑板，学生需要自己抄笔记</li></ul>"
       right: "<ul style="list-style-type: '✔ ';"><li>充分利用新科技，更高效</li></ul>"

@@ -8,9 +8,8 @@
   <table class="no_border">
     {% if two_column.header %}
     <tr>
-      {% for h in two_column.header %}
-      <th><b>{{ h.title }}</b></th>
-      {% endfor %}
+      <th><b>{{ two_column.header.title_left }}</b></th>
+      <th><b>{{ two_column.header.title_right }}</b></th>
     </tr>
     {% endif %}
     {% for row in two_column.contents %}
