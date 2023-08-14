@@ -44,8 +44,8 @@ th {
 table.no_border {
   border: none;
   text-align: left;
-  .td,thead {
-    border-bottom: unset;
+  .thead,td {
+    border-bottom: none;
   }
   .th,td {
     vertical-align: top;
