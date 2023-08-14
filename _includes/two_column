@@ -11,7 +11,7 @@
       <th>{{ h.title }}</th>
       {% endfor %}
     {% endif %}
-    {% for row in two_column %}
+    {% for row in two_column.contents %}
       <tr>
         <td>
           {% if two_column.title_col %}
