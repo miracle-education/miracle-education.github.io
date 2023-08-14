@@ -12,7 +12,7 @@ two_column:
       right: "778-952-9624"
     - left: "邮箱 / Email:"
       right: "<a href='miracleeducationinc@gmail.com'>miracleeducationinc@gmail.com</a>"
-    - left: "微信 / wechat:"
+    - left: "微信 / Wechat:"
       right: "<img src='/assets/images/wechat_barcode.jpeg' alt='我们的微信二维码' width='200' height='200'>"
 ---
 
