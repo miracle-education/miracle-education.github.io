@@ -4,7 +4,7 @@ title: "Contact us"
 layout: single
 excerpt: "---"
 two_column:
-  title_col: true
+    title_col: true
   - left: "地址 / Address:"
     right: "2-1161 The High Street, Coquitlam, V3B 7W3"
   - left: "电话 / Phone:"
