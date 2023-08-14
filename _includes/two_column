@@ -5,7 +5,7 @@
 {% endif %}
 
 <div class="feature__wrapper">
-  <table class="no_boarder">
+  <table class="no_border">
     {% if two_column.header %}
       {% for h in two_column.header %}
       <th>{{ h.title }}</th>
@@ -13,8 +13,16 @@
     {% endif %}
     {% for row in two_column %}
       <tr>
-        <td>{{ row.left }}</td>
-        <td>{{ row.right }}</td>
+        <td>
+          {% if two_column.title_col %}
+            <b>{{ row.left }}</b>
+          {% else %}
+            {{ row.left }}
+          {% endif %}
+        </td>
+        <td>
+          {{ row.right }}
+        </td>
       </tr>
     {% endfor %}
   </table>
