@@ -4,6 +4,7 @@ title: "线上及线下课程对比 / Online vs. In-person Classes"
 layout: single
 excerpt: "---"
 two_column:
+  title_col: false
   header:
     - title: "线下课程"
     - title: "线上课程"

@@ -19,7 +19,7 @@ toc: true
 <!-- ### 课程特点
 
 - 充分利用新科技
-    - 如今的线上通讯工具，可以让老师更容易给学生写板书，展示解题过程和讲解知识点。在软件中书写文字以及画图，都比在纸张或白板上更快捷，并且有更多易用的功能，如复制粘贴、划重点、画几何图形等。 <!-- 此处最好有视频/图片演示 -->
+    - 如今的线上通讯工具，可以让老师更容易给学生写板书，展示解题过程和讲解知识点。在软件中书写文字以及画图，都比在纸张或白板上更快捷，并且有更多易用的功能，如复制粘贴、划重点、画几何图形等。 (此处最好有视频/图片演示)
     - 课堂笔记很容易共享，省去学生盲目抄笔记浪费的时间。有时学生在课上是“为了抄笔记而抄笔记“，反而影响听课，然而线上课往往不需要学生把老师写的都抄下来，因为老师在课后都会将课堂笔记共享给学生。
     - 增强学生使用计算机学习、办公的能力。在学习和未来工作的过程中，计算机是一大助力。老师在给学生讲课时，也经常会教导学生使用常用的计算机软件来帮助学习。比如学习数学时，有时需要借助电脑来画函数图像，更好的理解函数的性质；学习化学时，可以使用网上的动态元素周期表，包含的信息远比纸质版元素周期表多的多。
     - 总结：线上课程的一大特点就是高效率。
@@ -42,8 +42,8 @@ toc: true
 - SAT、ACT
 - 雅思、思培等语言考试
 - 竞赛
-    - 数学：AMC 8/10/12，Waterloo contests (Gauss/Pascal/Cayley/Fermat/Euclid etc.)
-    - 化学：Chemistry 13，Avogadro
+    - 数学：[AMC 8](https://www.maa.org/math-competitions/amc-8)/[10/12](https://www.maa.org/math-competitions/amc-1012)，[Waterloo Math contests (Gauss/Pascal/Cayley/Fermat/Euclid etc.)](https://www.cemc.uwaterloo.ca/contests/our-contests.html)
+    - 化学：[Chemistry 13](https://uwaterloo.ca/chemistry/about-chemistry/community-outreach/chemistry-high-school-exams)，[Avogadro](https://uwaterloo.ca/chemistry/about-chemistry/community-outreach/chemistry-high-school-exams)
     - 物理：[AAPT](https://www.aapt.org/Programs/PhysicsBowl/index.cfm)，[CAP](https://outreach.phas.ubc.ca/exams-and-competitions/cap-high-school-prize-exam/)，[SIN](https://uwaterloo.ca/sir-isaac-newton-exam/)，[British Physics Olympiad](https://www.bpho.org.uk)
     - 计算机：[CCC](https://cemc.uwaterloo.ca/contests/ccc-cco.html)
 - 大学课程

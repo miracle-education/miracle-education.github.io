@@ -7,9 +7,11 @@
 <div class="feature__wrapper">
   <table class="no_border">
     {% if two_column.header %}
+    <tr>
       {% for h in two_column.header %}
       <th><b>{{ h.title }}</b></th>
       {% endfor %}
+    </tr>
     {% endif %}
     {% for row in two_column.contents %}
       <tr>
