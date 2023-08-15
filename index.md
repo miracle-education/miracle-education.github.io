@@ -36,7 +36,7 @@ feature_row:
   - image_path: /assets/images/resources.png
     alt: "关于学习资源的照片，比如笔记本啊啥的"
     title: "学习资源"
-    excerpt: "我们整理了一些热门课程的知识点，帮助学生复习、预习，让学习更轻松！<br /> "
+    excerpt: "我们整理了一些热门课程的知识点，帮助学生复习、预习，让学习更轻松！<br />&nbsp;"
     url: "/resources/"
     btn_class: "btn--primary"
     btn_label: "点击前往"
