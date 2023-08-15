@@ -23,4 +23,20 @@ two_column:
       right: "<ul class='cons'><li>研究表明，青少年经常在家中不出门，不利于身心健康</li></ul>"
 ---
 
+<style>
+ul.pros {
+  .li {
+    list-style-type: "✔";
+    padding-inline-start: 1ch;
+  }
+}
+
+ul.cons {
+  .li {
+    list-style-type: "✘";
+    padding-inline-start: 1ch;
+  }
+}
+</style>
+
 {% include two_column %}
