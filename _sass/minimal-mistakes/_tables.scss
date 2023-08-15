@@ -52,6 +52,16 @@ table.no_border {
   }
 }
 
-// ul.pros {
+ul.pros {
+  .li {
+    list-style-type: '&#x2714;';
+    padding-inline-start: 1ch;
+  }
+}
 
-// }
+ul.cons {
+  .li {
+    list-style-type: '&#x2718;';
+    padding-inline-start: 1ch;
+  }
+}
