@@ -150,7 +150,11 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: https://www.instagram.com/miracle.education.inc/
-
+    - label: "微信"
+      icon: "fab fa-fw fa-weixin"
+      url: https://u.wechat.com/kD1BlZ-4aCb2_jBXdCQxQa4
+    - label: "小红书"
+      url: https://www.xiaohongshu.com/user/profile/630056de0000000012003e59?xhsshare=CopyLink&appuid=630056de0000000012003e59&apptime=1692748190
 
 # Reading Files
 include:
