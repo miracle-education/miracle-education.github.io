@@ -39,8 +39,8 @@ toc: true
     - 12年级课程：数学 Pre-calculus 12, Calculus 12，物理 Physics 12，化学 Chemistry 12，计算机 Computer Programing 12，经济 Economics 12
     - IB课程：数学SL/HL，物理SL/HL，化学SL/HL，以及IA辅导（选题、实验、报告）
 - AP课程
-- SAT、ACT
-- 雅思、思培等语言考试
+<!-- - SAT、ACT -->
+<!-- - 雅思、思培等语言考试 -->
 - 竞赛
     - 数学：[AMC 8](https://www.maa.org/math-competitions/amc-8)/[10/12](https://www.maa.org/math-competitions/amc-1012)，[Waterloo Math contests (Gauss/Pascal/Cayley/Fermat/Euclid etc.)](https://www.cemc.uwaterloo.ca/contests/our-contests.html)
     - 化学：[Chemistry 13](https://uwaterloo.ca/chemistry/about-chemistry/community-outreach/chemistry-high-school-exams)，[Avogadro](https://uwaterloo.ca/chemistry/about-chemistry/community-outreach/chemistry-high-school-exams)
@@ -60,7 +60,7 @@ toc: true
         - 计算机基础课程
     - 其他大学/学院：
         - 请[联系我们](/contact/)了解详情
-- 成人英文
-    - ...
+<!-- - 成人英文
+    - ... -->
 
 
