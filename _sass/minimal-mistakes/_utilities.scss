@@ -316,6 +316,11 @@ body:hover .visually-hidden button {
     color: $vine-color;
   }
 
+  .fa-weixin {
+    color: #09b83e;
+    // color: $weixin-color;
+  }
+
   .fa-youtube {
     color: $youtube-color;
   }
@@ -323,10 +328,6 @@ body:hover .visually-hidden button {
   .fa-xing,
   .fa-xing-square {
     color: $xing-color;
-  }
-
-  .fa-weixin {
-    color: $weixin-color;
   }
 }
 
