@@ -6,15 +6,13 @@ excerpt: "---"
 toc: true
 ---
 
-## 线下课程
+## 课程形式
 
-- 校区地址：[2-1161 The High Street, Coquitlam, BC](https://www.google.com/maps/place/1161+The+High+St+%232,+Coquitlam,+BC+V3B+7W3/@49.2824111,-122.798489,17z/data=!3m1!4b1!4m6!3m5!1s0x54867f323290e12b:0x77d7a90be5316ba5!8m2!3d49.2824076!4d-122.7959141!16s%2Fg%2F11rx__n81p?entry=ttu)
-- 目前开设一对一课程和小班课程（四人以下）
-
-## 线上课程
-
-- 不限地区，仅开设一对一课程，详情请[联系我们](/contact/)
+- 主打一对一线上课程，详情请[联系我们](/contact/)
 - 详细了解[为什么选择线上课程？](/online_vs_in_person/)
+
+<!-- - 校区地址：[2-1161 The High Street, Coquitlam, BC](https://www.google.com/maps/place/1161+The+High+St+%232,+Coquitlam,+BC+V3B+7W3/@49.2824111,-122.798489,17z/data=!3m1!4b1!4m6!3m5!1s0x54867f323290e12b:0x77d7a90be5316ba5!8m2!3d49.2824076!4d-122.7959141!16s%2Fg%2F11rx__n81p?entry=ttu)
+- 目前开设一对一课程和小班课程（四人以下） -->
 
 <!-- ### 课程特点
 
@@ -39,7 +37,7 @@ toc: true
     - 12年级课程：数学 Pre-calculus 12, Calculus 12，物理 Physics 12，化学 Chemistry 12，计算机 Computer Programing 12，经济 Economics 12
     - IB课程：数学SL/HL，物理SL/HL，化学SL/HL，以及IA辅导（选题、实验、报告）
 - AP课程
-<!-- - SAT、ACT -->
+- SAT、ACT数学
 <!-- - 雅思、思培等语言考试 -->
 - 竞赛
     - 数学：[AMC 8](https://www.maa.org/math-competitions/amc-8)/[10/12](https://www.maa.org/math-competitions/amc-1012)，[Waterloo Math contests (Gauss/Pascal/Cayley/Fermat/Euclid etc.)](https://www.cemc.uwaterloo.ca/contests/our-contests.html)
@@ -47,7 +45,7 @@ toc: true
     - 物理：[AAPT](https://www.aapt.org/Programs/PhysicsBowl/index.cfm)，[CAP](https://outreach.phas.ubc.ca/exams-and-competitions/cap-high-school-prize-exam/)，[SIN](https://uwaterloo.ca/sir-isaac-newton-exam/)，[British Physics Olympiad](https://www.bpho.org.uk)
     - 计算机：[CCC](https://cemc.uwaterloo.ca/contests/ccc-cco.html)
 - 大学课程
-    - 多大各校区：
+    - 多大各校区数学、统计、及低年级物理、化学、计算机，主要包括：
         - MAT137，MAT135/136，MAT133，MAT223，MAT224，MAT235，MAT237，MAT244，MAT246，MAT301，MAT334
         - STA130，STA237，STA238，STA302，STA303，STA304，STA314
         - CSC108，CSC148，CSC165，CSC209，
@@ -60,7 +58,4 @@ toc: true
         - 计算机基础课程
     - 其他大学/学院：
         - 请[联系我们](/contact/)了解详情
-<!-- - 成人英文
-    - ... -->
-
 
