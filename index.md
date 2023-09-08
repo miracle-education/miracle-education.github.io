@@ -11,14 +11,14 @@ header:
 excerpt: >
   帮助每个学生创造属于自己的奇妙未来！<br />
   <small>教育，创造奇迹。</small>
-promo:
-  - image_path: /assets/images/promo.png
-    # image_url: "/promo/"
-    alt: "当前优惠活动的图片介绍"
-    excerpt: "<br />&nbsp;"
-    url: "/contact/"
-    btn_class: "btn--primary"
-    btn_label: "马上联系我们"
+# promo:
+#   - image_path: /assets/images/promo.png
+#     # image_url: "/promo/"
+#     alt: "当前优惠活动的图片介绍"
+#     excerpt: " "
+#     url: "/contact/"
+#     btn_class: "btn--primary"
+#     btn_label: "马上联系我们"
 feature_row:
   - image_path: /assets/images/courses.png
     alt: "一张富有学习氛围的老师讲课照片"
@@ -43,6 +43,8 @@ feature_row:
     btn_label: "点击前往"
 ---
 
-{% include feature_row id="promo"%}
+<!-- {% include feature_row id="promo" type="center" %} -->
+
+{% include figure class="promo_image" image_path="/assets/images/promo.png" %}
 
 {% include feature_row %}
