@@ -2,7 +2,7 @@
 permalink: /contact/
 title: "联系我们 / Contact us"
 layout: single
-excerpt: "---"
+# excerpt: "---"
 two_column:
   title_col: true
   contents:

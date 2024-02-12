@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "kramdown-parser-gfm"
-gem "jekyll", "~> 3.9.3"
+gem "jekyll", "~> 3.7"
 # gem "minimal-mistakes-jekyll"
 gem "minimal-mistakes-jekyll", :git => "https://github.com/mmistakes/minimal-mistakes.git", :tag => "4.24.0"
 # gem "github-pages", group: :jekyll_plugins

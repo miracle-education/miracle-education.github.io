@@ -2,7 +2,7 @@
 permalink: /online_vs_in_person/
 title: "线上及线下课程对比 / Online vs. In-person Classes"
 layout: single
-excerpt: "---"
+# excerpt: "---"
 two_column:
   title_col: false
   header:

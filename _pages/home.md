@@ -8,9 +8,7 @@ header:
   actions:
     - label: "<i class='btn-contact'></i> Contact us"
       url: "/contact/"
-excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
+# excerpt: ---
 feature_row:
   - image_path: /assets/images/logo_h.png
     alt: "1st picture fail"

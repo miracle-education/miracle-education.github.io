@@ -2,7 +2,7 @@
 permalink: /courses/
 title: "课程介绍 / Current Courses"
 layout: single
-excerpt: "---"
+# excerpt: "---"
 toc: true
 ---
 
