@@ -1,0 +1,25 @@
+<style type="text/css">
+  .drive-api-auth {
+    text-align: center;
+  }
+
+  button.auth-btn {
+    display: inline-block;
+  }
+</style>
+
+<div class="drive-api-auth">
+
+  <!--Add buttons to initiate auth sequence and sign out-->
+  <button id="authorize_button" class="auth-btn" onclick="handleAuthClick()">Authorize</button>
+  <button id="show_calendar_button" class="auth-btn" onclick="loadEvents().then(events => putEvents(events));">Load Events</button>
+  <button id="signout_button" class="auth-btn" onclick="handleSignoutClick()">Sign Out</button>
+
+  <!-- <pre id="content" style="white-space: pre-wrap;"></pre> -->
+
+  <script async defer src="https://apis.google.com/js/api.js" onload="gapiLoaded()"></script>
+  <script async defer src="https://accounts.google.com/gsi/client" onload="gisLoaded()"></script>
+  <script src="/assets/js/calendar.js" async defer></script>
+  <!-- <script type="module" src="/assets/js/calendar_index.js" async defer></script> -->
+  <script src="/assets/js/auth.js"></script>
+</div>

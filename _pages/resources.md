@@ -13,12 +13,17 @@ toc: false
 
 ## 中学课程 / High School Courses
 
-[Calculus 12 minibook](https://www.miracleeducation.ca/Calculus-12-Minibook/)
+[PreCalculus 12 minibook (unfinished)](https://www.miracleeducation.ca/PreCalculus-12-Minibook/)
+
+[Calculus 12 minibook (unfinished)](https://www.miracleeducation.ca/Calculus-12-Minibook/)
 
 ## AP课程 / AP Courses
 
+敬请期待
 <!-- [AP Calculus minibook](/.) -->
 
 ## 大学课程 / University Courses
 
+敬请期待
 <!-- [First year calculus minibook](/.) -->
+<!-- [Intro to Statistics minibook](/.) -->

@@ -576,3 +576,60 @@ body {
     }
   }
 }
+
+/*
+  test js stopwatch
+*/
+/* Mixin's */  
+@mixin transition {
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+}
+@mixin corners ($radius) {
+  -moz-border-radius: $radius;
+  -webkit-border-radius: $radius;
+  border-radius: $radius;
+  -khtml-border-radius: $radius;
+}
+  
+  
+.test_js_wrapper {
+  width: 800px;
+  margin: 30px auto;
+  color: #ffa600;
+  text-align:center;
+  }
+p.stopwatch_test {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 2.6em;
+  text-transform: uppercase;
+}
+  
+button.test_js_btn {
+  @include corners (5px);
+  background: #fff;
+  color: #ffa600;
+  border: solid 1px #ffa600;
+  text-decoration:none;
+  cursor:pointer;
+  font-size:1.2em;
+  padding:18px 10px;
+  width:180px;
+  margin: 10px;
+   outline: none;
+    &:hover{
+    @include transition;
+    background: #ffa600;
+    border: solid 1px #ffa600;
+    color: #ffa600;
+    }
+}
+
+/*
+calendar layout
+*/
+
+
+
