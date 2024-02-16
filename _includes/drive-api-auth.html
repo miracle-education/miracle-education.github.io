@@ -11,15 +11,15 @@
 <div class="drive-api-auth">
 
   <!--Add buttons to initiate auth sequence and sign out-->
-  <button id="authorize_button" class="auth-btn" onclick="handleAuthClick()">Authorize</button>
-  <button id="show_calendar_button" class="auth-btn" onclick="loadEvents().then(events => putEvents(events));">Load Events</button>
-  <button id="signout_button" class="auth-btn" onclick="handleSignoutClick()">Sign Out</button>
+  <button id="authorize_button" class="auth-btn" onclick="handleAuthClick()">Admin Log in</button>
+  <button id="show_calendar_button" class="auth-btn" onclick="loadEvents().then(events => putEvents(events));">Refresh Events</button>
+  <button id="signout_button" class="auth-btn" onclick="handleSignoutClick()">Log out</button>
 
   <!-- <pre id="content" style="white-space: pre-wrap;"></pre> -->
 
   <script async defer src="https://apis.google.com/js/api.js" onload="gapiLoaded()"></script>
   <script async defer src="https://accounts.google.com/gsi/client" onload="gisLoaded()"></script>
-  <script src="/assets/js/calendar.js" async defer></script>
+  <!-- <script src="/assets/js/calendar.js" async defer onload=""></script> -->
   <!-- <script type="module" src="/assets/js/calendar_index.js" async defer></script> -->
-  <script src="/assets/js/auth.js"></script>
+  <script src="/assets/js/auth.js" onload="sleep(1000).then(() => loadEvents().then(events => putEvents(events)));"></script>
 </div>
