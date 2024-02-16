@@ -19,7 +19,7 @@ const SCOPES = "https://www.googleapis.com/auth/spreadsheets.readonly";
 const TRACK_SHEET_ID = "1ItkejqpyXTY5HfmVbgGTvGog5yztnerCdIamcNiNmq0";
 const PRIVATE_SHEET_ID = "13P-UU_pA5v0XuKXRtWUhm65nYFLThJo9OQM7CTmiP18";
 
-const sleep = ms => new Promise(r => setTimeout(r, ms));
+// const sleep = ms => new Promise(r => setTimeout(r, ms));
 
 // const events = [];
 let tokenClient;

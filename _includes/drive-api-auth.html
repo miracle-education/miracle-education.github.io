@@ -21,5 +21,8 @@
   <script async defer src="https://accounts.google.com/gsi/client" onload="gisLoaded()"></script>
   <!-- <script src="/assets/js/calendar.js" async defer onload=""></script> -->
   <!-- <script type="module" src="/assets/js/calendar_index.js" async defer></script> -->
+  <script type="text/javascript">
+    const sleep = ms => new Promise(r => setTimeout(r, ms));
+  </script>
   <script src="/assets/js/auth.js" onload="sleep(1000).then(() => loadEvents().then(events => putEvents(events)));"></script>
 </div>
