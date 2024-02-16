@@ -7,7 +7,6 @@ toc: false
 js_calendar: []
 ---
 
-{% include drive-api-auth.html %}
-
 {% include calendar.html %}
 
+{% include drive-api-auth.html %}
