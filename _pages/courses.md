@@ -2,7 +2,10 @@
 permalink: /courses/
 title: "课程介绍 / Current Courses"
 layout: single
-# excerpt: "---"
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/courses_header_bg.png
+excerpt: "---"
 toc: true
 ---
 

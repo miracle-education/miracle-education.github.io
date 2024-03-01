@@ -2,13 +2,15 @@
 main:
   - title: "主页"
     url: /
-  # - title: "关于我们"
-  #   url: /about/
+  - title: "关于我<s>们</s>"
+    url: /about/
   - title: "课程介绍"
     url: /courses/
   - title: "学业服务"
     url: /services/
   - title: "学习资源"
     url: /resources/
+  - title: "教育杂谈"
+    url: /discourses/
   - title: "联系我们"
     url: /contact/

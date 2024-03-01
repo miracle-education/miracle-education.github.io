@@ -2,12 +2,15 @@
 permalink: /contact/
 title: "联系我们 / Contact us"
 layout: single
-# excerpt: "---"
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/contact_header_bg.png
+excerpt: "---"
 two_column:
   title_col: true
   contents:
     # - left: "地址 / Address:"
-    #   right: "2-1161 The High Street, Coquitlam, V3B 7W3"
+    #   right: ""
     - left: "电话 / Phone:"
       right: "+1 778-952-9624"
     - left: "邮箱 / Email:"

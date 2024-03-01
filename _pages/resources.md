@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/resources_header_bg.png
 excerpt: >
   原创各学科迷你书，持续更新中！<br />
-  <small>没找到想看的科目？<a href="/contact/">告诉我们</a>，加入到更新队列！</small>
+  <small>没找到想看的科目？<a href="/contact/">告诉我们</a>，排入更新队列！</small>
 toc: false
 ---
 

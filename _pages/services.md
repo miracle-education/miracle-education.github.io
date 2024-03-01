@@ -2,7 +2,10 @@
 permalink: /services/
 title: "学业服务 / Academic Services"
 layout: single
-# excerpt: "---"
+excerpt: "---"
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/services_header_bg.png
 toc: true
 ---
 
