@@ -116,7 +116,7 @@ async function loadEvents() {
   // events.length = 0;
   const events = [];
   let response;
-  let privateMode = true;
+  let privateMode = true;  // true: showing students detail
 
   try {
     response = await gapi.client.sheets.spreadsheets.values.get({
@@ -184,7 +184,7 @@ async function loadEvents() {
   if (!nextWeekRange || !nextWeekRange.values || nextWeekRange.length == 0) {
   } else {
     const numberEventsThisWeek = events.length;
-    nextWeekRange.values.forEach((row, i) => events.push(formatEvent(row, i + numberEventsThisWeek)));
+    nextWeekRange.values.forEach((row, i) => events.push(formatEvent(row, i + numberEventsThisWeek, privateMode)));
   }
   // console.log(events);
   return events;
@@ -257,7 +257,7 @@ function formatEvent(row, id, privateMode) {
       row[2].split(":")[0],
       row[2].split(":")[1]
     ).valueOf() + diff;
-  var eventName = privateMode ? `${row[4]}` : "Occupied";
+  var eventName = (privateMode || row[4] == "Unavailable") ? `${row[4]}` : "Occupied";
   return { id: id, eventName: eventName, dateFrom: start, dateTo: end };
 }
 
